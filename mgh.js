@@ -149,9 +149,6 @@
             a_to_vf = protected_links.split(",");
             return a_to_vf;
         }; 
-    /*]]>*/
-    </script>
-<!--[Protect link from encode]-->
-<script>//<![CDATA[
+
 protected_links = "google.com, youtube.com,paypal.me,t.me,facebook.com, instagram.com, twitter.com,blogspot.com,modhere.com,modgamehay.com,mediafire1.com,googleusercontent.com";
 auto_safelink();
